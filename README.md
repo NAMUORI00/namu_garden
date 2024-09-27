@@ -1,9 +1,9 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+# 나무오리의 디지털가든 레포지토리입니다.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
+옵시디언 디지털가든 퍼블리시 플러그인을 이용한 나무오리의 메모, 블로그 페이지 입니다.
+옵시디언의 정리한 지식, 지적내용을 배포, 관리를 하기위해 생성되었습니다.
 
----
-## Docs
-Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+기존의 vercel, github 연동 방식을 이용하는 것보다
+이미 존재하는 cloudflare, 개인 DNS 서비스를 연결하여 페이지를 제공하고 있습니다.
+
+사용된 기술(서비스): Cloudflare Woker Page, DNS Cname 레코드
